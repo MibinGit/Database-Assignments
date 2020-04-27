@@ -1,0 +1,3 @@
+{"_id":{"$oid":"5db5b825ea2bb905508ad21b"},"TerritoryID":{"$numberInt":"7"},"Name":"France","CustomerID":{"$numberInt":"30103"},"AccountNumber":"10-4020-000638"}
+{"_id":{"$oid":"5db5b94c93dfcd0550033ac5"},"TerritoryID":{"$numberInt":"7"},"Name":"France","CustomerID":{"$numberInt":"29940"},"AccountNumber":"10-4020-000193"}
+{"_id":{"$oid":"5db5b96193dfcd0550033ac6"},"TerritoryID":{"$numberInt":"7"},"Name":"France","CustomerID":{"$numberInt":"29923"},"AccountNumber":"10-4020-000085"}
